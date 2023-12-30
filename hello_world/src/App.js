@@ -1,6 +1,6 @@
 function App() {
   return (
-      <h1>Hello World now</h1>
+      <h1>Hello World right now</h1>
   );
 }
 
